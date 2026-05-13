@@ -1,0 +1,5 @@
+# Entorno virtual del Challenge 5
+challenge5/
+
+# Ignorar solo la carpeta de datos pesados del Challenge 5
+data/LLCP2024XPT/
